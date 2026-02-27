@@ -2,8 +2,3 @@ We use Google Colab, so the large files are saved in Google Drive.
 
 Saved files link:
 https://drive.google.com/drive/folders/1W5t1ccJrjqifwa4t9vejJ1_vooO_XNwg
-
-Individual files:
-- hdfs_cleaned_sample.csv => https://drive.google.com/file/d/1A78cV8jTuPKvG7gGie0KStxb97_DC9by
-- labels_cleaned.csv => https://drive.google.com/file/d/1cRWH2sVOBsuQXGicm21tlnEWY2BTJHnu/
-- processed_data.pkl => https://drive.google.com/file/d/1IbAXDV6rJtTSUqwAX5ClVKU-ZFBnYFhZ/
